@@ -1,3 +1,4 @@
+AHDX直播,#genre#
 CCTV4K，igmp://238.1.79.23:4296
 CCTV4K，igmp://238.1.78.137:6968
 CCTV1HD，igmp://238.1.78.166:7200
